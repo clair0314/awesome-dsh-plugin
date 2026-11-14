@@ -1,0 +1,7 @@
+url: https://github.com/nekonya77/dsh-podcast-panel
+name: nekonya77/dsh-podcast-panel
+category: fun
+description:
+  en: "Podcast and audiobook player in the DSH sidebar: subscribe to RSS or Xiaoyuzhou links, play at 0.75-2x with a 15-second skip, resume where you left off, and see a three-line summary plus one quote pulled from each episode's show notes."
+  zh: "DSH 侧栏播客/有声书播放器：订阅 RSS 或小宇宙链接，0.75–2 倍速播放、±15 秒跳过、自动记住进度；每集从 show notes 抽三行摘要和一句金句。"
+tarball: https://github.com/nekonya77/dsh-podcast-panel/releases/download/v0.1.1/dsh-podcast-panel-0.1.1.tgz
